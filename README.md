@@ -10,8 +10,9 @@ Numero di push minimo: 6
 Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel file README.md
 Buon lavoro!
 
-<!-- SCOMPONIMENTO DEL PROBLEMA -->
+<!-- SCOMPONIMENTO DEL PROBLEMA 
 1- creare una variabile contenete un prompt dove l'utente andrà ad inserire il numero di chilometri che vuole percorrere.
 2- creare un'altra variabile contenete un prompt dove l'utente andrà ad inserire la propria età.
 3- calcolare il prezzo sulla base dei kilometri percorsi:
 4- applicare la scontisctica a secconda dell'età:
+-->
