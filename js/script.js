@@ -6,6 +6,9 @@ let finalPrice;
 if (age <= 18) {
     finalPrice = price - (price * 20 / 100);
 }
+else if (age >= 65) {
+    finalPrice = price - (price * 40 / 100);
+}
 
 
 console.log(`il prezzo è di ${finalPrice}`)
